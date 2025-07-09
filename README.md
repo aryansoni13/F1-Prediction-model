@@ -225,6 +225,15 @@ For support and questions:
 ### Retraining
 - Add new race data to your CSV and rerun the training script to update the model.
 
+
+## Model Upgrade and Retraining
+To achieve more precise predictions for future races, the race prediction model will be upgraded and retrained using historical race data. The upgrade process involves enhancing the model architecture with advanced algorithms and optimized hyperparameters to improve accuracy. Key steps include:
+
+   - **Data Preparation**: Clean and preprocess historical race data, performing feature engineering to extract relevant predictors such as past performance, track conditions, and participant metrics.
+   - **Model Enhancement**: Incorporate advanced machine learning techniques (e.g., gradient boosting or neural networks) and fine-tune hyperparameters using grid search or random search.
+   - **Retraining**: Retrain the model on the historical dataset with cross-validation to ensure robust performance and prevent overfitting.
+   - **Evaluation**: Assess the upgraded model using metrics like accuracy, precision, and F1-score, comparing results against the baseline model to quantify improvements.
+<p> This upgrade aims to deliver a more reliable and scalable model for race outcome predictions, with plans to integrate real-time data and ensemble methods in future iterations.</p>
 ---
 
 **Happy Racing! 🏎️🏁** "# F1-Prediction-model" 
