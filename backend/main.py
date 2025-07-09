@@ -144,7 +144,7 @@ live_predictions = None
 last_prediction_update = None
 connection_status = "connected"
 
-OPENWEATHER_API_KEY = '3018402e89f6f1aec6cee593d6ff315e'
+OPENWEATHER_API_KEY = ''
 
 weather_cache = {}  # key: (lat, lon), value: {"data": ..., "timestamp": ...}
 
