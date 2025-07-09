@@ -234,7 +234,3 @@ To achieve more precise predictions for future races, the race prediction model 
    - **Retraining**: Retrain the model on the historical dataset with cross-validation to ensure robust performance and prevent overfitting.
    - **Evaluation**: Assess the upgraded model using metrics like accuracy, precision, and F1-score, comparing results against the baseline model to quantify improvements.
 <p> This upgrade aims to deliver a more reliable and scalable model for race outcome predictions, with plans to integrate real-time data and ensemble methods in future iterations.</p>
----
-
-**Happy Racing! 🏎️🏁** "# F1-Prediction-model" 
-"# F1-Prediction-model" 
